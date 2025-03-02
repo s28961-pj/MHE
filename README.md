@@ -6,11 +6,49 @@
 
 <details>
   <summary>
+    O przedmiocie MHE
+  </summary>
+
+  Nauczymy się praktycznego zastosowania metaheurystyk. Poznamy w jakich sytuacjach warto spróbować zastosować rozwiązania z tej dziedziny, a kiedy nie. Zajmiemy się:<br>
+  - Programowanie genetyczne<br>
+  - Programowanie ewolucyjne<br>
+  - Strategie ewolucyjne<br>
+  - Symulowane wyżarzanie<br>
+  - Algorytm genetyczny<br>
+  - Algorytm Tabu<br>
+
+  ### Co na zajęciach
+Wykład jest przygotowaniem do laboratoriów. Na wykładzie omawiane będą algorytmy, metody i ich właściwości. Przedstawione zostaną także elementy teorii które są konieczne do zrozumienia tematu.
+Językiem wykładowym będzie C++17 oraz Python. Zachęcam do poznania obu.
+Zajęcia są zebrane w czterech zjazdach. 
+ 
+Ćwiczenia proszę traktować jako okazję do dyskusji/pracy i oddawania projektów.
+</details>
+
+<details>
+  <summary>
     Zasady zaliczenia
   </summary>
-  Laboratoria
+  
+  ### Laboratoria
 Praktyczne ćwiczenia/laboratoria dążące do stworzenia kompletnego projektu. Każdy uczestnik powinien wybrać sobie temat przewodni. Będą dodatkowe punkty przyznawane za aktywność czy to na ćwiczeniach czy na wykładzie - w losowych momentach.
 W oddzielnym wpisie przedstawię co jest do zrobienia do końca semestru.
+Egzamin - ze wszystkiego.
+Jeśli udało się uzyskać ocenę co najmniej 4.0 z lab, to może ona zostać przepisana na ocenę z wykładu.
+
+Materiały:
+- MHE na github (pantadeusz)
+- Slajdy z wykładów w plikach na Teams
+- Stare zajęcia dla trybu dziennego - http://szuflandia.pjwstk.edu.pl/~pantadeusz/zajecia/mhe/2019_2020_dzienne.old/
+- https://pl.frwiki.wiki/wiki/M%C3%A9taheuristique
+
+Książki
+(dostępne w bibliotece)
+Każdą z tych pozycji polecam. Ja poznawałem ten temat zapoznając się z książkami w takiej kolejności jak wymienione. Natomiast wydaje mi się że lepiej zacząć w odwrotnej kolejności.
+- A. Michalewicz - Algorytmy genetyczne + struktury danych = programy ewolucyjne
+- D. A. Goldberg - Algorytmy genetyczne i ich zastosowanie
+- J. Arabas - Wykłady z Algorytmów Ewolucyjnych
+
 </details>
 
 <details>
