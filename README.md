@@ -4,6 +4,8 @@
 
 `Metaheurystyka` - ogólna metoda służąca za szablon do konstrukcji heurystyki rozwiązującej dowolny problem dający się opisać za pomocą pojęć z tej metody.
 
+`Light Up (puzzle)` - ``` --> TU WSTAW OPIS <-- ```
+
 <details>
   <summary>
     O przedmiocie MHE
