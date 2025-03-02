@@ -113,8 +113,8 @@ Powyższy wymóg podyktowany jest praktyczną niemożliwością innej weryfikacj
 
 100% punktów to 15, tak więc aby dostać 5 należy zrobić jedno zadanie z * albo oddać wcześniej.
 
-- [ ] Zanim zaczniesz - proszę przygotować repozytorium.
-- [ ] Zdecyduj się na temat zadania, który będzie z Tobą do końca zajęć. Tematy mogą się powtarzać, ale najlepiej, aby były w miarę równo rozłożone między uczestników. Można też wybrać jakiś dowolny temat z https://en.wikipedia.org/wiki/List_of_NP-complete_problems, ale niektóre z nich mogą być trudne..
+- [x] Zanim zaczniesz - proszę przygotować repozytorium.
+- [x] Zdecyduj się na temat zadania, który będzie z Tobą do końca zajęć. Tematy mogą się powtarzać, ale najlepiej, aby były w miarę równo rozłożone między uczestników. Można też wybrać jakiś dowolny temat z https://en.wikipedia.org/wiki/List_of_NP-complete_problems, ale niektóre z nich mogą być trudne..
 - https://en.wikipedia.org/wiki/Dominating_set
 - https://en.wikipedia.org/wiki/Minimum_k-cut
 - https://en.wikipedia.org/wiki/Independent_set_(graph_theory)
@@ -126,7 +126,7 @@ Powyższy wymóg podyktowany jest praktyczną niemożliwością innej weryfikacj
 - https://en.wikipedia.org/wiki/Bin_packing_problem
 - https://en.wikipedia.org/wiki/Light_Up_(puzzle)
 - https://en.wikipedia.org/wiki/Nonogram
-- [ ] Nazwę tematu proszę wpisać w komentarzu do zajęć. 
+- [x] Nazwę tematu proszę wpisać w komentarzu do zajęć. 
 
 - [ ] Wybrany temat proszę opisać skrótowo na swoim repozytorium w pliku README.md, oraz wysłać adres repozytorium na email prowadzącego - pantadeusz@pjwstk.edu.pl - proszę w tytule wpisać "MHE Zaoczne 2025", dzięki czemu łatwiej mi będzie to zebrać. ``UWAGA`` - każdy temat będzie trzeba trochę dostosować - wyjaśnię jak to zrobić.
 Przez cały semestr (do ostatniego zjazdu) proszę przygotować projekt zawierający następujące podprojekty oraz eksperymenty. Każdy element na liczbę punktów podaną w nawiasach. Cechy wspólne projektów to:
