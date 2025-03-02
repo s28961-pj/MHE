@@ -115,17 +115,6 @@ Powyższy wymóg podyktowany jest praktyczną niemożliwością innej weryfikacj
 
 - [x] Zanim zaczniesz - proszę przygotować repozytorium.
 - [x] Zdecyduj się na temat zadania, który będzie z Tobą do końca zajęć. Tematy mogą się powtarzać, ale najlepiej, aby były w miarę równo rozłożone między uczestników. Można też wybrać jakiś dowolny temat z https://en.wikipedia.org/wiki/List_of_NP-complete_problems, ale niektóre z nich mogą być trudne..
-- https://en.wikipedia.org/wiki/Dominating_set
-- https://en.wikipedia.org/wiki/Minimum_k-cut
-- https://en.wikipedia.org/wiki/Independent_set_(graph_theory)
-- https://en.wikipedia.org/wiki/Maximum_cut
-- https://en.wikipedia.org/wiki/Graph_coloring
-- https://en.wikipedia.org/wiki/Clique_problem
-- https://en.wikipedia.org/wiki/Subset_sum_problem
-- https://en.wikipedia.org/wiki/3-partition_problem
-- https://en.wikipedia.org/wiki/Bin_packing_problem
-- https://en.wikipedia.org/wiki/Light_Up_(puzzle)
-- https://en.wikipedia.org/wiki/Nonogram
 - [x] Nazwę tematu proszę wpisać w komentarzu do zajęć. 
 
 - [ ] Wybrany temat proszę opisać skrótowo na swoim repozytorium w pliku README.md, oraz wysłać adres repozytorium na email prowadzącego - pantadeusz@pjwstk.edu.pl - proszę w tytule wpisać "MHE Zaoczne 2025", dzięki czemu łatwiej mi będzie to zebrać. ``UWAGA`` - każdy temat będzie trzeba trochę dostosować - wyjaśnię jak to zrobić.
