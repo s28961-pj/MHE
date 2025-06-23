@@ -1,0 +1,15 @@
+from algorithms.brute_force.brute_force import brute_force
+from algorithms.genetic_algorithm.genetic_algorithm import genetic_algorithm
+from algorithms.hill_climbing.hill_climbing import hill_climbing
+from algorithms.hill_climbing_random.hill_climbing_random import hill_climbing_random
+from algorithms.simulated_annealing_algorithm.simulated_annealing_algorithm import simulated_annealing_algorithm
+from algorithms.tabu_search.tabu_search import tabu_search
+
+algorithms = {
+        "Brute_Force": brute_force,
+        "Tabu_Search": tabu_search,
+        "Hill_Climbing": hill_climbing,
+        "Hill_Climbing_Random": hill_climbing_random,
+        "Simulated_Annealing": simulated_annealing_algorithm,
+        "Genetic_Algorithm": genetic_algorithm
+}
