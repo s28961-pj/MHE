@@ -1,6 +1,8 @@
 import argparse
+import time
 
 from input.algorithm_list import algorithms
+from utils.print_matrix import print_matrix
 from utils.read_from_file import read_from_file
 from utils.read_from_standard_input import read_from_stdin
 
@@ -48,7 +50,6 @@ def main():
     else:
         board = read_from_stdin()  # Wczytywanie z wejścia standardowego
 
-    print(board)
     # Wywołaj odpowiedni algorytm
     algorithm_function = algorithms[args.algorithm]
     algorithm_function()

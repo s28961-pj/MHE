@@ -1,0 +1,1 @@
+python3 ../../main.py Random_Solution --verbose

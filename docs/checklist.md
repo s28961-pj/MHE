@@ -13,9 +13,9 @@
 - [x] Projekt może być podzielony na oddzielne projekty będące osobnymi programami. Ważne aby miały spójny format wywołania (argumenty/dane...). Dowolny język programowania, ale będę się czepiał wtórnych rozwiązań
 
 ### Implementacja problemu optymalizacyjnego (3)
-- [ ] Przygotuj swoją funkcję celu dla zadanego problemu.
-- [ ] Przygotuj metodę która będzie zwracała bliskie "sąsiedztwo" bieżącego rozwiązania.
-- [ ] Przygotuj funkcję która wygeneruje losowe rozwiązanie
+- [x] Przygotuj swoją funkcję celu dla zadanego problemu.
+- [x] Przygotuj metodę która będzie zwracała bliskie "sąsiedztwo" bieżącego rozwiązania.
+- [x] Przygotuj funkcję która wygeneruje losowe rozwiązanie
 
 ### Algorytm pełnego przeglądu (1)
 - [ ] Zaimplementuj algorytm pełnego przeglądu. Prawdopodobnie będzie potrzebna metoda generowania kolejnych punktów z dziedziny rozwiązania w taki sposób, aby udało się przejść wszystkie.
